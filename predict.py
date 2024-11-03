@@ -1,7 +1,6 @@
 
 from ultralytics import YOLO
 
-
 temp = ["person",
   "bicycle",
   "car",
