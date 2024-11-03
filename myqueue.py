@@ -9,6 +9,7 @@ queues = queue.Queue(100)
 QueueSetPix = queue.Queue(1000)
 
 
+#hellow
 
 def mat_to_qpixmap(cv_image):
     # 确保图像是8位深度
